@@ -1,0 +1,28 @@
+/* Jakub Stormowski 
+text-decoration: none - jest to domyślna wartość która nie nadaje żadnych atrybutów 
+text-decoration: underline - podkreśla dany tekst 
+*/
+div
+{
+    color:red;
+    font-size: 2cm;
+}
+A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: green;
+}
+A:hover
+{
+color: red;
+text-decoration: underline;
+}
+<! Jakub Stormowski 3F_2->
