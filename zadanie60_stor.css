@@ -1,24 +1,25 @@
 /* Jakub Stormowski
-hover: pseudo klasa która zmienia styl elementu po najechaniu na niego myszką */
+hover - pseudoklasa która zmienia styl elementu po najechaniu na niego myszką */
 div 
 {
     width: 623px;
     background-color: green;
-
 }
-#blok1_stormowski:hover
+
+#blok1_Stormowski:hover
 {
     background-color:orange;
     font-size: 20mm;
 }
-#blok2_stormowski:hover
+
+#blok2_Stormowski:hover
 {
     background-color:blue;
     font-size: 20mm;
 }
-#blok3_stormowski:hover
+
+#blok3_Stormowski:hover
 {
     background-color:turquoise;
     font-size: 20mm;
 }
-<! Jakub Stormowski 3F_2->
